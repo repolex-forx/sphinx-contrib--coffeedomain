@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/coffeedomain/commit/1b0cbda761e8bf182d925a788ccecc370f9cfb47",
       "git:hexsha": "1b0cbda761e8bf182d925a788ccecc370f9cfb47",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
